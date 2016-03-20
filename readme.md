@@ -1,4 +1,15 @@
+# Readme
 
-# Blog
 
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+
+To run in development mode:
+
+    wintersmith preview
+
+To build:
+
+    wintersmith build
+
+To deploy:
+
+

@@ -1,143 +1,391 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Wintersmith's blog</title>
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8080</link>
-    <description>Ramblings of an immor(t)al demigod</description>
+    <title>Down by the River</title>
+    <atom:link href="http://www.downbytheriver.us/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://www.downbytheriver.us</link>
+    <description>Van -&gt; RV Conversion. Live and work down by the river.</description>
     <pubDate>Sun, 31 Mar 2013 17:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>A red herring</title>
-      <link>http://localhost:8080/articles/red-herring/</link>
+      <title>How to Install Click Flooring in a van</title>
+      <link>http://www.downbytheriver.us/articles/2013-04-01_Install-Click-Flooring-in-a-Van/</link>
       <pubDate>Sun, 31 Mar 2013 17:00:00 -0700</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/red-herring/</guid>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2013-04-01_Install-Click-Flooring-in-a-Van/</guid>
       <author></author>
-      <description>&lt;p&gt;A long time ago, when the world was young — someone put some food on their tongue.
-They tasted the food, and thought it was nice. Most fruit liked it — but banana&amp;#39;s thought twice.&lt;/p&gt;
+      <description>&lt;p&gt;Installing flooring in a van is the first step (wish I‘d known when I started :) to conversion to an RV. I chose laminate click flooring because it’s easy to clean, durable, and I love a bright wood look.&lt;/p&gt;
+&lt;p&gt;I built this at TechShop in San Francisco. Living in the city I don&amp;#39;t have room for tools and the wood shop there made cutting the flooring to size a piece of cake.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;They held a meeting at quarter past eight.
-Whilst the human‘s were getting home late.
-They decided they didn’t want to be eaten they said:
-“No way, we&amp;#39;re not going to be beaten”.&lt;/p&gt;
-&lt;p&gt;So time went by, and human‘s got old.
-Banana’s got ready, for their prophets had told.
-That soon shall come the dawn of war.
-Where humans will rule the earth no more.&lt;/p&gt;
-&lt;p&gt;The humans knew not of the evil banana‘s plans.
-They made their cars, guitars and aluminum cans.
-And the banana’s began to take over the east.
-While humans knew not, and kept having their feast.&lt;/p&gt;
-&lt;p&gt;But time has run out, no more hiding there can be.
-Or else the banana&amp;#39;s will kill you and me.
-We must take up arms, and fight to the end.
-Because, believe it or not, a banana is not a friend.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/articles/red-herring/banana.png&quot; alt=&quot;a banana&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;The Plan (Layers)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Click flooring   (Laminate/compressed wood)&lt;/li&gt;
+&lt;li&gt;Underlayment     (1/4&amp;quot; Cork)&lt;/li&gt;
+&lt;li&gt;Moisture Barrier (Plastic)&lt;/li&gt;
+&lt;li&gt;Flattener        (Reflectix to fill ridges in floor)&lt;/li&gt;
+&lt;li&gt;Bare, prepared van metal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-04-01_Install-Click-Flooring-in-a-Van/van-floor-layers.jpg&quot; alt=&quot;Sketch of Layers&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Prepare Metal&lt;/h2&gt;
+&lt;p&gt;Prepare the van interior by cleaning, sanding out any rust, and repaiting. You aren‘t going to see the actual van floor again (hopefully ever), so don’t leave any rust around to melt your floor out from under you. I also chose to paint with a layer of sound dampening paint like Lizardskin but this is optional.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-04-01_Install-Click-Flooring-in-a-Van/diy-lizardskin-on-van.jpg&quot; alt=&quot;DIY Lizardskin on Van floor&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Fill Gaps to Level Floor&lt;/h2&gt;
+&lt;p&gt;The floor of most vans has 1/2-1/4&amp;quot; ridges that help make the floor more stable. I wanted to bring this up to a level height so that an installed floor would me more stable. Also, the more insulation the better :)&lt;/p&gt;
+&lt;p&gt;Reflectix is a good choice because it‘s made of plastic so it can’t hold moisture or rot. It will provide a small amount of radiant heat insulation (good if you park over a hot parking lot).&lt;/p&gt;
+&lt;p&gt;To fill the gaps, I simply cut it into strips and taped it down. Having a buddy to help makes it go really fast.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-04-01_Install-Click-Flooring-in-a-Van/reflectix-to-fill-van-floor-grooves.jpg&quot; alt=&quot;Reflectix in Van Floor&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Moisture Barrier&lt;/h2&gt;
+&lt;p&gt;Because you‘re gonna put a floor down, and because all humans exude humidity, and especially because I spill things and make a mess, you need a moisture barrier. This keeps moisture off your van’s metal floor.&lt;/p&gt;
+&lt;p&gt;Buy a cheap roll of the stuff at home depot. It‘s just heavy duty plastic. You attach it with silicone and keep a water tight seal away from your van’s metal floor.&lt;/p&gt;
+&lt;p&gt;Pretty easy stuff there.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-04-01_Install-Click-Flooring-in-a-Van/moisture-barrier-on-van-floor.jpg&quot; alt=&quot;Moisture Barrier on Van Floor&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Underlayment&lt;/h2&gt;
+&lt;p&gt;Underlayment keeps your click flooring from scooting around too much, vibrating, and is your chance to insulte under the floor. You can get cheap felt stuff, but I suggest cork because it&amp;#39;s all natural and provides great sound proofing and some insulative properties.&lt;/p&gt;
+&lt;p&gt;Cork is easy to cut with a sharp razor blade and doesn‘t need to get glued down or anything, so it’s pretty easy to put in.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-04-01_Install-Click-Flooring-in-a-Van/cork-underlayment-for-van-floor.jpg&quot; alt=&quot;Cork Underlayment for Van Floor&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Click Flooring&lt;/h2&gt;
+&lt;p&gt;Once all the prep layers are in, you can cut the floor to size and install it.&lt;/p&gt;
+&lt;p&gt;I suggest you start with the furthest back corner and build your way out. I made this more difficult on myself than needed by having an L shaped couch already attached to the floor. Don&amp;#39;t do this to yourself unless you really like cutting small shapes into planks of your flooring.&lt;/p&gt;
+&lt;p&gt;The click flooring is pretty easy to install, just cut them to fit your space and press them into place. A rubber mallet helps a lot.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-04-01_Install-Click-Flooring-in-a-Van/click-flooring-in-van.jpg&quot; alt=&quot;Click Flooring Installed In Van&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Taketori Monogatari</title>
-      <link>http://localhost:8080/articles/bamboo-cutter/</link>
-      <pubDate>Tue, 31 Jan 2012 16:00:00 -0800</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/bamboo-cutter/</guid>
+      <title>Van Floor Moisture Barrier and Underlayment</title>
+      <link>http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/</link>
+      <pubDate>Wed, 30 Jan 2013 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/</guid>
       <author></author>
-      <description>&lt;p&gt;Long, long ago, there lived an old bamboo wood-cutter.&lt;/p&gt;
-&lt;p&gt;He was very poor and sad also, for no child had Heaven sent to cheer his old age, and in his heart there was no hope of rest from work till he died and was laid in the quiet grave. Every morning he went forth into the woods and hills wherever the bamboo reared its lithe green plumes against the sky. When he had made his choice, he would cut down these feathers of the forest, and splitting them lengthwise, or cutting them into joints, would carry the bamboo wood home and make it into various articles for the household, and he and his old wife gained a small livelihood by selling them.&lt;/p&gt;
+      <description>&lt;p&gt;Converting a van to an RV requires a good moisture barrier to prevent rust and a good underlayment to insulate, reduce noise, and prevent vibration.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:8080/articles/bamboo-cutter/taketori_monogatari.jpg&quot; alt=&quot;Taketori Monogatari&quot;&gt;&lt;/p&gt;
-&lt;p&gt;One morning as usual he had gone out to his work, and having found a nice clump of bamboos, had set to work to cut some of them down. Suddenly the green grove of bamboos was flooded with a bright soft light, as if the full moon had risen over the spot. Looking round in astonishment, he saw that the brilliance was streaming from one bamboo. The old man. full of wonder. dropped his ax and went towards the light. On nearer approach he saw that this soft splendor came from a hollow in the green bamboo stem, and still more wonderful to behold, in the midst of the brilliance stood a tiny human being, only three inches in height, and exquisitely beautiful in appearance.&lt;/p&gt;
-&lt;p&gt;“You must be sent to be my child, for I find you here among the bamboos where lies my daily work,” said the old man, and taking the little creature in his hand he took it home to his wife to bring up. The tiny girl was so exceedingly beautiful and so small, that the old woman put her into a basket to safeguard her from the least possibility of being hurt in any way.&lt;/p&gt;
-&lt;p&gt;The old couple were now very happy, for it had been a lifelong regret that they had no children of their own, and with joy they now expended all the love of their old age on the little child who had come to them in so marvelous a manner.&lt;/p&gt;
-&lt;p&gt;From this time on, the old man often found gold in the notches of the bamboos when he hewed them down and cut them up; not only gold, but precious stones also, so that by degrees he became rich. He built himself a fine house, and was no longer known as the poor bamboo woodcutter, but as a wealthy man.&lt;/p&gt;
-&lt;p&gt;Three months passed quickly away, and in that time the bamboo child had, wonderful to say, become a full-grown girl, so her foster- parents did up her hair and dressed her in beautiful kimonos. She was of such wondrous beauty that they placed her behind the screens like a princess, and allowed no one to see her, waiting upon her themselves. It seemed as if she were made of light, for the house was filled with a soft shining, so that even in the dark of night it was like daytime. Her presence seemed to have a benign influence on those there. Whenever the old man felt sad, he had only to look upon his foster-daughter and his sorrow vanished, and he became as happy as when he was a youth.&lt;/p&gt;
-&lt;p&gt;At last the day came for the naming of their new-found child, so the old couple called in a celebrated name-giver, and he gave her the name of Princess Moonlight, because her body gave forth so much soft bright light that she might have been a daughter of the Moon God.&lt;/p&gt;
-&lt;p&gt;For three days the festival was kept up with song and dance and music. All the friends and relations of the old couple were present, and great was their enjoyment of the festivities held to celebrate the naming of Princess Moonlight. Everyone who saw her declared that there never had been seen any one so lovely; all the beauties throughout the length and breadth of the land would grow pale beside her, so they said. The fame of the Princess&amp;#39;s loveliness spread far and wide, and many were the suitors who desired to win her hand, or even so much as to see her.&lt;/p&gt;
-&lt;p&gt;Suitors from far and near posted themselves outside the house, and made little holes in the fence, in the hope of catching a glimpse of the Princess as she went from one room to the other along the veranda. They stayed there day and night, sacrificing even their sleep for a chance of seeing her, but all in vain. Then they approached the house, and tried to speak to the old man and his wife or some of the servants, but not even this was granted them.&lt;/p&gt;
-&lt;p&gt;Still, in spite of all this disappointment they stayed on day after day, and night after night, and counted it as nothing, so great was their desire to see the Princess.&lt;/p&gt;
-&lt;p&gt;At last, however, most of the men, seeing how hopeless their quest was, lost heart and hope both, and returned to their homes. All except five Knights, whose ardor and determination, instead of waning, seemed to wax greater with obstacles. These five men even went without their meals, and took snatches of whatever they could get brought to them, so that they might always stand outside the dwelling. They stood there in all weathers, in sunshine and in rain.&lt;/p&gt;
-&lt;p&gt;Sometimes they wrote letters to the Princess, but no answer was vouchsafed to them. Then when letters failed to draw any reply, they wrote poems to her telling her of the hopeless love which kept them from sleep, from food, from rest, and even from their homes. Still Princes Moonlight gave no sign of having received their verses.&lt;/p&gt;
-&lt;p&gt;In this hopeless state the winter passed. The snow and frost and the cold winds gradually gave place to the gentle warmth of spring. Then the summer came, and the sun burned white and scorching in the heavens above and on the earth beneath, and still these faithful Knights kept watch and waited. At the end of these long months they called out to the old bamboo-cutter and entreated him to have some mercy upon them and to show them the Princess, but he answered only that as he was not her real father he could not insist on her obeying him against her wishes.&lt;/p&gt;
-&lt;p&gt;The five Knights on receiving this stern answer returned to their several homes, and pondered over the best means of touching the proud Princess‘s heart, even so much as to grant them a hearing. They took their rosaries in hand and knelt before their household shrines, and burned precious incense, praying to Buddha to give them their heart’s desire. Thus several days passed, but even so they could not rest in their homes.&lt;/p&gt;
-&lt;p&gt;So again they set out for the bamboo-cutter‘s house. This time the old man came out to see them, and they asked him to let them know if it was the Princess’s resolution never to see any man whatsoever, and they implored him to speak for them and to tell her the greatness of their love, and how long they had waited through the cold of winter and the heat of summer, sleepless and roofless through all weathers, without food and without rest, in the ardent hope of winning her, and they were willing to consider this long vigil as pleasure if she would but give them one chance of pleading their cause with her.&lt;/p&gt;
-&lt;p&gt;The old man lent a willing ear to their tale of love, for in his inmost heart he felt sorry for these faithful suitors and would have liked to see his lovely foster-daughter married to one of them. So he went in to Princess Moonlight and said reverently:&lt;/p&gt;
-&lt;p&gt;“Although you have always seemed to me to be a heavenly being, yet I have had the trouble of bringing you up as my own child and you have been glad of the protection of my roof. Will you refuse to do as I wish?”&lt;/p&gt;
-&lt;p&gt;Then Princess Moonlight replied that there was nothing she would not do for him, that she honored and loved him as her own father, and that as for herself she could not remember the time before she came to earth.&lt;/p&gt;
-&lt;p&gt;The old man listened with great joy as she spoke these dutiful words. Then he told her how anxious he was to see her safely and happily married before he died.&lt;/p&gt;
-&lt;p&gt;“I am an old man, over seventy years of age, and my end may come any time now. It is necessary and right that you should see these five suitors and choose one of them.”&lt;/p&gt;
-&lt;p&gt;“Oh, why,” said the Princess in distress, “must I do this? I have no wish to marry now.”&lt;/p&gt;
-&lt;p&gt;“I found you,” answered the old man, &amp;quot;many years ago, when you were a little creature three inches high, in the midst of a great white light. The light streamed from the bamboo in which you were hid and led me to you. So I have always thought that you were more than mortal woman. While I am alive it is right for you to remain as you are if you wish to do so, but some day I shall cease to be and who will take care of you then? Therefore I pray you to meet these five brave men one at a time and make up your mind to marry one of them!&amp;quot;&lt;/p&gt;
-&lt;p&gt;Then the Princess answered that she felt sure that she was not as beautiful as perhaps report made her out to be, and that even if she consented to marry any one of them, not really knowing her before, his heart might change afterwards. So as she did not feel sure of them, even though her father told her they were worthy Knights, she did not feel it wise to see them.&lt;/p&gt;
-&lt;p&gt;“All you say is very reasonable,” said the old man, “but what kind of men will you consent to see? I do not call these five men who have waited on you for months, light-hearted. They have stood outside this house through the winter and the summer, often denying themselves food and sleep so that they may win you. What more can you demand?”&lt;/p&gt;
-&lt;p&gt;Then Princess Moonlight said she must make further trial of their love before she would grant their request to interview her. The five warriors were to prove their love by each bringing her from distant countries something that she desired to possess.&lt;/p&gt;
-&lt;p&gt;That same evening the suitors arrived and began to play their flutes in turn, and to sing their self-composed songs telling of their great and tireless love. The bamboo-cutter went out to them and offered them his sympathy for all they had endured and all the patience they had shown in their desire to win his foster-daughter. Then he gave them her message, that she would consent to marry whosoever was successful in bringing her what she wanted. This was to test them.&lt;/p&gt;
-&lt;p&gt;The five all accepted the trial, and thought it an excellent plan, for it would prevent jealousy between them.&lt;/p&gt;
-&lt;p&gt;Princess Moonlight then sent word to the First Knight that she requested him to bring her the stone bowl which had belonged to Buddha in India.&lt;/p&gt;
-&lt;p&gt;The Second Knight was asked to go to the Mountain of Horai, said to be situated in the Eastern Sea, and to bring her a branch of the wonderful tree that grew on its summit. The roots of this tree were of silver, the trunk of gold, and the branches bore as fruit white jewels.&lt;/p&gt;
-&lt;p&gt;The Third Knight was told to go to China and search for the fire-rat and to bring her its skin.&lt;/p&gt;
-&lt;p&gt;The Fourth Knight was told to search for the dragon that carried on its head the stone radiating five colors and to bring the stone to her.&lt;/p&gt;
-&lt;p&gt;The Fifth Knight was to find the swallow which carried a shell in its stomach and to bring the shell to her.&lt;/p&gt;
-&lt;p&gt;The old man thought these very hard tasks and hesitated to carry the messages, but the Princess would make no other conditions. So her commands were issued word for word to the five men who, when they heard what was required of them, were all disheartened and disgusted at what seemed to them the impossibility of the tasks given them and returned to their own homes in despair.&lt;/p&gt;
-&lt;p&gt;But after a time, when they thought of the Princess, the love in their hearts revived for her, and they resolved to make an attempt to get what she desired of them.&lt;/p&gt;
-&lt;p&gt;The First Knight sent word to the Princess that he was starting out that day on the quest of Buddha&amp;#39;s bowl, and he hoped soon to bring it to her. But he had not the courage to go all the way to India, for in those days traveling was very difficult and full of danger, so he went to one of the temples in Kyoto and took a stone bowl from the altar there, paying the priest a large sum of money for it. He then wrapped it in a cloth of gold and, waiting quietly for three years, returned and carried it to the old man.&lt;/p&gt;
-&lt;p&gt;Princess Moonlight wondered that the Knight should have returned so soon. She took the bowl from its gold wrapping, expecting it to make the room full of light, but it did not shine at all, so she knew that it was a sham thing and not the true bowl of Buddha. She returned it at once and refused to see him. The Knight threw the bowl away and returned to his home in despair. He gave up now all hopes of ever winning the Princess.&lt;/p&gt;
-&lt;p&gt;The Second Knight told his parents that he needed change of air for his health, for he was ashamed to tell them that love for the Princess Moonlight was the real cause of his leaving them. He then left his home, at the same time sending word to the Princess that he was setting out for Mount Horai in the hope of getting her a branch of the gold and silver tree which she so much wished to have. He only allowed his servants to accompany him half-way, and then sent them back. He reached the seashore and embarked on a small ship, and after sailing away for three days he landed and employed several carpenters to build him a house contrived in such a way that no one could get access to it. He then shut himself up with six skilled jewelers, and endeavored to make such a gold and silver branch as he thought would satisfy the Princess as having come from the wonderful tree growing on Mount Horai. Every one whom he had asked declared that Mount Horai belonged to the land of fable and not to fact.&lt;/p&gt;
-&lt;p&gt;When the branch was finished, he took his journey home and tried to make himself look as if he were wearied and worn out with travel. He put the jeweled branch into a lacquer box and carried it to the bamboo-cutter, begging him to present it to the Princess.&lt;/p&gt;
-&lt;p&gt;The old man was quite deceived by the travel-stained appearance of the Knight, and thought that he had only just returned from his long journey with the branch. So he tried to persuade the Princess to consent to see the man. But she remained silent and looked very sad. The old man began to take out the branch and praised it as a wonderful treasure to be found nowhere in the whole land. Then he spoke of the Knight, how handsome and how brave he was to have undertaken a journey to so remote a place as the Mount of Horai.&lt;/p&gt;
-&lt;p&gt;Princess Moonlight took the branch in her hand and looked at it carefully. She then told her foster-parent that she knew it was impossible for the man to have obtained a branch from the gold and silver tree growing on Mount Horai so quickly or so easily, and she was sorry to say she believed it artificial.&lt;/p&gt;
-&lt;p&gt;The old man then went out to the expectant Knight, who had now approached the house, and asked where he had found the branch. Then the man did not scruple to make up a long story.&lt;/p&gt;
-&lt;p&gt;“Two years ago I took a ship and started in search of Mount Horai. After going before the wind for some time I reached the far Eastern Sea. Then a great storm arose and I was tossed about for many days, losing all count of the points of the compass, and finally we were blown ashore on an unknown island. Here I found the place inhabited by demons who at one time threatened to kill and eat me. However, I managed to make friends with these horrible creatures, and they helped me and my sailors to repair the boat, and I set sail again. Our food gave out, and we suffered much from sickness on board. At last, on the five-hundredth day from the day of starting, I saw far off on the horizon what looked like the peak of a mountain. On nearer approach, this proved to be an island, in the center of which rose a high mountain. I landed, and after wandering about for two or three days, I saw a shining being coming towards me on the beach, holding in his hands a golden bowl. I went up to him and asked him if I had, by good chance, found the island of Mount Horai, and he answered:”&lt;/p&gt;
-&lt;p&gt;&amp;quot;&amp;#39;Yes, this is Mount Horai!&amp;#39;&amp;quot;&lt;/p&gt;
-&lt;p&gt;“With much difficulty I climbed to the summit, here stood the golden tree growing with silver roots in the ground. The wonders of that strange land are many, and if I began to tell you about them I could never stop. In spite of my wish to stay there long, on breaking off the branch I hurried back. With utmost speed it has taken me four hundred days to get back, and, as you see, my clothes are still damp from exposure on the long sea voyage. I have not even waited to change my raiment, so anxious was I to bring the branch to the Princess quickly.”&lt;/p&gt;
-&lt;p&gt;Just at this moment the six jewelers, who had been employed on the making of the branch, but not yet paid by the Knight, arrived at the house and sent in a petition to the Princess to be paid for their labor. They said that they had worked for over a thousand days making the branch of gold, with its silver twigs and its jeweled fruit, that was now presented to her by the Knight, but as yet they had received nothing in payment. So this Knight&amp;#39;s deception was thus found out, and the Princess, glad of an escape from one more importunate suitor, was only too pleased to send back the branch. She called in the workmen and had them paid liberally, and they went away happy. But on the way home they were overtaken by the disappointed man. who beat them till they were nearly dead, for letting out the secret, and they barely escaped with their lives. The Knight then returned home, raging in his heart; and in despair of ever winning the Princess gave up society and retired to a solitary life among the mountains.&lt;/p&gt;
-&lt;p&gt;Now the Third Knight had a friend in China, so he wrote to him to get the skin of the fire-rat. The virtue of any part of this animal was that no fire could harm it. He promised his friend any amount of money he liked to ask if only he could get him the desired article. As soon as the news came that the ship on which his friend had sailed home had come into port, he rode seven days on horseback to meet him. He handed his friend a large sum of money, and received the fire-rat&amp;#39;s skin. When he reached home he put it carefully in a box and sent it in to the Princess while he waited outside for her answer.&lt;/p&gt;
-&lt;p&gt;The bamboo-cutter took the box from the Knight and, as usual, carried it in to her and tried to coax her to see the Knight at once, but Princess Moonlight refused, saying that she must first put the skin to test by putting it into the fire. If it were the real thing it would not burn. So she took off the crape wrapper and opened the box, and then threw the skin into the fire. The skin crackled and burnt up at once, and the Princess knew that this man also had not fulfilled his word. So the Third Knight failed also.&lt;/p&gt;
-&lt;p&gt;Now the Fourth Knight was no more enterprising than the rest. Instead of starting out on the quest of the dragon bearing on its head the five-color-radiating jewel, he called all his servants together and gave them the order to seek for it far and wide in Japan and in China, and he strictly forbade any of them to return till they had found it.&lt;/p&gt;
-&lt;p&gt;His numerous retainers and servants started out in different directions, with no intention, however, of obeying what they considered an impossible order. They simply took a holiday, went to pleasant country places together, and grumbled at their master&amp;#39;s unreasonableness.&lt;/p&gt;
-&lt;p&gt;The Knight meanwhile, thinking that his retainers could not fail to find the jewel, repaired to his house, and fitted it up beautifully for the reception of the Princess, he felt so sure of winning her.&lt;/p&gt;
-&lt;p&gt;One year passed away in weary waiting, and still his men did not return with the dragon-jewel. The Knight became desperate. He could wait no longer, so taking with him only two men he hired a ship and commanded the captain to go in search of the dragon; the captain and the sailors refused to undertake what they said was an absurd search, but the Knight compelled them at last to put out to sea.&lt;/p&gt;
-&lt;p&gt;When they had been but a few days out they encountered a great storm which lasted so long that, by the time its fury abated, the Knight had determined to give up the hunt of the dragon. They were at last blown on shore, for navigation was primitive in those days. Worn out with his travels and anxiety, the fourth suitor gave himself up to rest. He had caught a very heavy cold, and had to go to bed with a swollen face.&lt;/p&gt;
-&lt;p&gt;The governor of the place, hearing of his plight, sent messengers with a letter inviting him to his house. While he was there thinking over all his troubles, his love for the Princess turned to anger, and he blamed her for all the hardships he had undergone. He thought that it was quite probable she had wished to kill him so that she might be rid of him, and in order to carry out her wish had sent him upon his impossible quest.&lt;/p&gt;
-&lt;p&gt;At this point all the servants he had sent out to find the jewel came to see him, and were surprised to find praise instead of displeasure awaiting them. Their master told them that he was heartily sick of adventure, and said that he never intended to go near the Princess&amp;#39;s house again in the future.&lt;/p&gt;
-&lt;p&gt;Like all the rest, the Fifth Knight failed in his quest—he could not find the swallow&amp;#39;s shell.&lt;/p&gt;
-&lt;p&gt;By this time the fame of Princess Moonlight&amp;#39;s beauty had reached the ears of the Emperor, and he sent one of the Court ladies to see if she were really as lovely as report said; if so he would summon her to the Palace and make her one of the ladies-in-waiting.&lt;/p&gt;
-&lt;p&gt;When the Court lady arrived, in spite of her father‘s entreaties, Princess Moonlight refused to see her. The Imperial messenger insisted, saying it was the Emperor’s order. Then Princess Moonlight told the old man that if she was forced to go to the Palace in obedience to the Emperor&amp;#39;s order, she would vanish from the earth.&lt;/p&gt;
-&lt;p&gt;When the Emperor was told of her persistence in refusing to obey his summons, and that if pressed to obey she would disappear altogether from sight, he determined to go and see her. So he planned to go on a hunting excursion in the neighborhood of the bamboo-cutter‘s house, and see the Princess himself. He sent word to the old man of his intention, and he received consent to the scheme. The next day the Emperor set out with his retinue, which he soon managed to outride. He found the bamboo-cutter’s house and dismounted. He then entered the house and went straight to where the Princess was sitting with her attendant maidens.&lt;/p&gt;
-&lt;p&gt;Never had he seen any one so wonderfully beautiful, and he could not but look at her, for she was more lovely than any human being as she shone in her own soft radiance. When Princess Moonlight became aware that a stranger was looking at her she tried to escape from the room, but the Emperor caught her and begged her to listen to what he had to say. Her only answer was to hide her face in her sleeves.&lt;/p&gt;
-&lt;p&gt;The Emperor fell deeply in love with her, and begged her to come to the Court, where he would give her a position of honor and everything she could wish for. He was about to send for one of the Imperial palanquins to take her back with him at once, saying that her grace and beauty should adorn a Court, and not be hidden in a bamboo-cutter&amp;#39;s cottage.&lt;/p&gt;
-&lt;p&gt;But the Princess stopped him. She said that if she were forced to go to the Palace she would turn at once into a shadow, and even as she spoke she began to lose her form. Her figure faded from his sight while he looked.&lt;/p&gt;
-&lt;p&gt;The Emperor then promised to leave her free if only she would resume her former shape, which she did.&lt;/p&gt;
-&lt;p&gt;It was now time for him to return, for his retinue would be wondering what had happened to their Royal master when they missed him for so long. So be bade her good-by, and left the house with a sad heart. Princess Moonlight was for him the most beautiful woman in the world; all others were dark beside her, and he thought of her night and day. His Majesty now spent much of his time in writing poems, telling her of his love and devotion, and sent them to her, and though she refused to see him again she answered with many verses of her own composing, which told him gently and kindly that she could never marry any one on this earth. These little songs always gave him pleasure.&lt;/p&gt;
-&lt;p&gt;At this time her foster-parents noticed that night after night the Princess would sit on her balcony and gaze for hours at the moon, in a spirit of the deepest dejection, ending always in a burst of tears. One night the old man found her thus weeping as if her heart were broken, and he besought her to tell him the reason of her sorrow.&lt;/p&gt;
-&lt;p&gt;With many tears she told him that he had guessed rightly when he supposed her not to belong to this world—that she had in truth come from the moon, and that her time on earth would soon be over. On the fifteenth day of that very month of August her friends from the moon would come to fetch her, and she would have to return. Her parents were both there, but having spent a lifetime on the earth she had forgotten them, and also the moon-world to which she belonged. It made her weep, she said, to think of leaving her kind foster- parents, and the home where she had been happy for so long.&lt;/p&gt;
-&lt;p&gt;When her attendants heard this they were very sad, and could not eat or drink for sadness at the thought that the Princess was so soon to leave them.&lt;/p&gt;
-&lt;p&gt;The Emperor, as soon as the news was carried to him, sent messengers to the house to find out if the report were true or not.&lt;/p&gt;
-&lt;p&gt;The old bamboo-cutter went out to meet the Imperial messengers. The last few days of sorrow had told upon the old man; he had aged greatly, and looked much more than his seventy years. Weeping bitterly, he told them that the report was only too true, but he intended, however, to make prisoners of the envoys from the moon, and to do all he could to prevent the Princess from being carried back.&lt;/p&gt;
-&lt;p&gt;The men returned and told His Majesty all that had passed. On the fifteenth day of that month the Emperor sent a guard of two thousand warriors to watch the house. One thousand stationed themselves on the roof, another thousand kept watch round all the entrances of the house. All were well trained archers, with bows and arrows. The bamboo-cutter and his wife hid Princess Moonlight in an inner room.&lt;/p&gt;
-&lt;p&gt;The old man gave orders that no one was to sleep that night, all in the house were to keep a strict watch, and be ready to protect the Princess. With these precautions, and the help of the Emperor&amp;#39;s men- at-arms, he hoped to withstand the moon-messengers, but the Princess told him that all these measures to keep her would be useless, and that when her people came for her nothing whatever could prevent them from carrying out their purpose. Even the Emperors men would be powerless. Then she added with tears that she was very, very sorry to leave him and his wife, whom she had learned to love as her parents, that if she could do as she liked she would stay with them in their old age, and try to make some return for all the love and kindness they had showered upon her during all her earthly life.&lt;/p&gt;
-&lt;p&gt;The night wore on! The yellow harvest moon rose high in the heavens, flooding the world asleep with her golden light. Silence reigned over the pine and the bamboo forests, and on the roof where the thousand men-at-arms waited.&lt;/p&gt;
-&lt;p&gt;Then the night grew gray towards the dawn and all hoped that the danger was over—that Princess Moonlight would not have to leave them after all. Then suddenly the watchers saw a cloud form round the moon—and while they looked this cloud began to roll earthwards. Nearer and nearer it came, and every one saw with dismay that its course lay towards the house.&lt;/p&gt;
-&lt;p&gt;In a short time the sky was entirely obscured, till at last the cloud lay over the dwelling only ten feet off the ground. In the midst of the cloud there stood a flying chariot, and in the chariot a band of luminous beings. One amongst them who looked like a king and appeared to be the chief stepped out of the chariot, and, poised in air, called to the old man to come out.&lt;/p&gt;
-&lt;p&gt;“The time has come,” he said, “for Princess Moonlight to return to the moon from whence she came. She committed a grave fault, and as a punishment was sent to live down here for a time. We know what good care you have taken of the Princess, and we have rewarded you for this and have sent you wealth and prosperity. We put the gold in the bamboos for you to find.”&lt;/p&gt;
-&lt;p&gt;“I have brought up this Princess for twenty years and never once has she done a wrong thing, therefore the lady you are seeking cannot be this one,” said the old man. “I pray you to look elsewhere.”&lt;/p&gt;
-&lt;p&gt;Then the messenger called aloud, saying:&lt;/p&gt;
-&lt;p&gt;“Princess Moonlight, come out from this lowly dwelling. Rest not here another moment,”&lt;/p&gt;
-&lt;p&gt;At these words the screens of the Princess&amp;#39;s room slid open of their own accord, revealing the Princess shining in her own radiance, bright and wonderful and full of beauty.&lt;/p&gt;
-&lt;p&gt;The messenger led her forth and placed her in the chariot. She looked back, and saw with pity the deep sorrow of the old man. She spoke to him many comforting words, and told him that it was not her will to leave him and that he must always think of her when looking at the moon.&lt;/p&gt;
-&lt;p&gt;The bamboo-cutter implored to be allowed to accompany her, but this was not allowed. The Princess took off her embroidered outer garment and gave it to him as a keepsake.&lt;/p&gt;
-&lt;p&gt;One of the moon beings in the chariot held a wonderful coat of wings, another had a phial full of the Elixir of Life which was given the Princess to drink. She swallowed a little and was about to give the rest to the old man, but she was prevented from doing so.&lt;/p&gt;
-&lt;p&gt;The robe of wings was about to be put upon her shoulders, but she said:&lt;/p&gt;
-&lt;p&gt;“Wait a little. I must not forget my good friend the Emperor. I must write him once more to say good-by while still in this human form.”&lt;/p&gt;
-&lt;p&gt;In spite of the impatience of the messengers and charioteers she kept them waiting while she wrote. She placed the phial of the Elixir of Life with the letter, and, giving them to the old man, she asked him to deliver them to the Emperor.&lt;/p&gt;
-&lt;p&gt;Then the chariot began to roll heavenwards towards the moon, and as they all gazed with tearful eyes at the receding Princess, the dawn broke, and in the rosy light of day the moon-chariot and all in it were lost amongst the fleecy clouds that were now wafted across the sky on the wings of the morning wind.&lt;/p&gt;
-&lt;p&gt;Princess Moonlight&amp;#39;s letter was carried to the Palace. His Majesty was afraid to touch the Elixir of Life, so he sent it with the letter to the top of the most sacred mountain in the land. Mount Fuji, and there the Royal emissaries burnt it on the summit at sunrise. So to this day people say there is smoke to be seen rising from the top of Mount Fuji to the clouds.&lt;/p&gt;
+&lt;p&gt;The floor of the ford e350 is grooved, to provide stuctural stability I think, or to help match with a future installed disco ball. The floor I ultimately want to put in is hardwood, so I needed to install an underlayment and moisture barrier.&lt;/p&gt;
+&lt;p&gt;The order of layers is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Van floor  &lt;/li&gt;
+&lt;li&gt;Something to fill the grooves  &lt;/li&gt;
+&lt;li&gt;Cut through holes  &lt;/li&gt;
+&lt;li&gt;Moisture barrier  &lt;/li&gt;
+&lt;li&gt;Cork Underlayment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Filling the Grooves&lt;/h3&gt;
+&lt;p&gt;Grooves were filled with strips of Reflectix because of the minor insulation benefit they‘d provide and because they don’t retain any moisture. They don‘t level out the grooves completely since they aren’t very compression resistant but they&amp;#39;re better than nothing.&lt;/p&gt;
+&lt;p&gt;Reflectix cuts easily with scissors and masochistically with a razor blade. You can see in the photos that the L shape frame would have been better if it were not in the way at this point.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/1-buddy-grooves.jpg&quot; alt=&quot;Install it with a friend&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/2-groove-detail.jpg&quot; alt=&quot;Reflectix GrooveDetail&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/3-groove-detail.jpg&quot; alt=&quot;Groove Detail&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Cut through holes&lt;/h3&gt;
+&lt;p&gt;I knew I needed to get holes through the bottom of the vehicle for a plumbing drain—not the usual way, but if I‘m just draining rinse water, I don’t see a problem. I cut a hole using a spade shaped hole cutting wood bit. This took forever to do, but the PVC fit was perfect. I hammered in facing pieces with a rubber mallet and secured with liquid nails for hold and butyl putty for waterproofing.&lt;/p&gt;
+&lt;p&gt;This fitting will later let me attach PVC plumbing to it so I can drain my sink outdoors when appropriate.&lt;/p&gt;
+&lt;p&gt;I want under-mounted leisure batteries, but I wasn‘t sure what through holes I needed for these so I’ll have to lift up the floor to install these later.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/4-plumbing.jpg&quot; alt=&quot;Seal through hole&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/5-pvc-plumbing.jpg&quot; alt=&quot;PVC Drain with Cap&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Moisture Barrier&lt;/h3&gt;
+&lt;p&gt;Moisture barrier is some black plastic made for the purpose from a home supply store. Installed by laying it right over the Reflectix, cut to fit in the van, and secured around the edges with silicone.&lt;/p&gt;
+&lt;p&gt;Ignore the framing in these pictures and the Reflectix on the walls—that got in the way and should have been done after the whole floor was installed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/6-moisture-barrier.jpg&quot; alt=&quot;Moisture Barrier&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/7-moisture-barrier-detail.jpg&quot; alt=&quot;Moisture Barrier Detail&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Cork Underlayment&lt;/h3&gt;
+&lt;p&gt;I used cork for underlayment, sound proofing, and some small amount of insulation because:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cork doesn&amp;#39;t outgas chemicals like foam does&lt;/li&gt;
+&lt;li&gt;It&amp;#39;s easy to work with&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You can cut cork with a razor blade. I just cut it and dry fit all the pieces. The temporary floor I have installed (not pictured), sits right over floating cork without any slipping problems, so I think the floating-fit is a fine installation technique here. The cork is pretty curled up so I tried to weight it down flat with wood scraps and heavy objects like cans of soup, art history books, and feather pillows.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/8-cork-underlayment.jpg&quot; alt=&quot;Cork Underlayment&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/9-cork-underlayment-cutting.jpg&quot; alt=&quot;Cutting Cork Underlayment&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/10-cork-underlayment-detail.jpg&quot; alt=&quot;Cork Underlayment Detail&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Install-Moisture-Barrier-and-Underlayment-In-Your-Van/11-cork-underlayment.jpg&quot; alt=&quot;Cork Underlayment&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Frame and Insulate Your Van Walls</title>
+      <link>http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/</link>
+      <pubDate>Wed, 30 Jan 2013 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/</guid>
+      <author></author>
+      <description>&lt;p&gt;Insulation keeps your van cool in the summer and warm in the winter. Insulating a van interior means carefully considering balancing aspects like interior space, moisture retention, toxic chemicals, and insulative properties.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The walls were framed horizontally at 23&amp;quot; apart so that insulation could run horizontally and minimal framing would be needed. I did an outside layer of Reflectix, held in place with 2x2 framing studs, and stapled the insulation to those.&lt;/p&gt;
+&lt;h3&gt;Steps:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Stuff Reflectix and loose fill insulation into gaps and holes&lt;/li&gt;
+&lt;li&gt;Dry fit reflectix&lt;/li&gt;
+&lt;li&gt;Dry fit framing&lt;/li&gt;
+&lt;li&gt;Screw framing into van wall through the Reflectix&lt;/li&gt;
+&lt;li&gt;Add needed wall anchors&lt;/li&gt;
+&lt;li&gt;Install insulation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Stuff Reflectix &amp;amp; Loose-fill Insulation into Gaps&lt;/h3&gt;
+&lt;p&gt;My van was full of holes in the walls, the doors, everywhere. It is very like political arguments in this way. I dry fit Reflectix into as many of the spaces as I could. Reflectix bounces radiant heat out, so it&amp;#39;s the first layer. After that I stuffed in loose fill insulation. I used cellulose, which is natural and has no nasty nasty chemicals, but I got nervous about it retaining moisture so I bagged it in freezer bags first and shoved those into as many gaps as I could. Remaining holes I stuffed with Polyester fiberfill which should not retain moisture as much and could get into tiny gaps.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/1-reflectix-in-walls.jpg&quot; alt=&quot;Reflectix in van walls&quot;&gt;
+Get reflectix in as many gaps as you can
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/2-loose-fill.jpg&quot; alt=&quot;Loose Fill Cellulose Insulation&quot;&gt;
+Cellulose is toxin-free and is a fair insulator. Retains moisture though.
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/3-van-walls-stuffed.jpg&quot; alt=&quot;asdf&quot;&gt;
+Van walls stuffed with cellulose in freezer backs and polyester stuffing.&lt;/p&gt;
+&lt;h3&gt;Attach Framing and Reflectix&lt;/h3&gt;
+&lt;p&gt;I cut Reflectix to fit the whole van and fit it in place using clamps, and cut the framing I would need. Then I attached the framing to the van walls using self tapping stainless steel screws, which actually don‘t work well through wood—you still have to two step it, since it’s trying to pull through the wood while it&amp;#39;s tapping the hole for the sheet metal.&lt;/p&gt;
+&lt;p&gt;I framed around the skylights at this point, too, anticipating where the insulation would go.&lt;/p&gt;
+&lt;p&gt;What I really liked about this installation method is the reflectix was all attached without any adhesives or glues, so there&amp;#39;s no possiblity of toxic outgassing.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/4-reflectix-on-van-ceiling.jpg&quot; alt=&quot;Reflectix on Ceiling&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/5-reflectix-on-van-walls.jpg&quot; alt=&quot;Reflectix on Van Walls&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/6-reflectix-in-van-interior.jpg&quot; alt=&quot;Reflectix on Van Interior&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Wall Anchors&lt;/h3&gt;
+&lt;p&gt;I attached some anchors to the walls to help stabilize the furniture. I think I‘ll want more in the future but I added the ones I knew about. Getting them behind the reflectix wasn’t tough—just cut notches where the attachment points need to get.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/7-framing-attachment-behind-reflectix.jpg&quot; alt=&quot;Framing Attachment&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Install Insulation&lt;/h3&gt;
+&lt;p&gt;I thought and read a lot about insulation. There are many options:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fiberglass (itchy to install, usually bound with Formaldehyde)&lt;/li&gt;
+&lt;li&gt;Denim (moisture retaining, not locally available)&lt;/li&gt;
+&lt;li&gt;Cellulose (loose fill likely to settle)&lt;/li&gt;
+&lt;li&gt;Kingspan rigid foam boards (shows toxic outgassing for years)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/9-insulation-product.jpg&quot; alt=&quot;Ecotouch Insulation&quot;&gt;
+I ultimately went with a new fiberglass type called ‘Ecotouch’ which isn‘t bound with Formaldehyde because it was locally available, had good r-value, wouldn’t retain moisture, and was non-toxic as best as I could tell.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/8-me-installing-van-insulation.jpg&quot; alt=&quot;Installation Outfit&quot;&gt;
+Still itchy to install though. We suited up and stapled insulation against the framing and wedged it into the remaining door panels.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Frame-and-Insulate-Your-Van-Walls/10-hold-insulation-against-ceiling.jpg&quot; alt=&quot;Insulation held with tension against fiberglass ceiling&quot;&gt;
+I had some denim available and used it in the above-cabin compartment where fiberglass was too thick. Most of the roof insulation was tension fit using 2x1s wedged against the existing steel framing.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Build a Folding Bed Platform in Your Van</title>
+      <link>http://www.downbytheriver.us/articles/2013-01-31_Build-a-Folding-Bed-Platform-in-Your-Van/</link>
+      <pubDate>Wed, 30 Jan 2013 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2013-01-31_Build-a-Folding-Bed-Platform-in-Your-Van/</guid>
+      <author></author>
+      <description>&lt;p&gt;I wanted to build a bed that can fold into a couch.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I wanted to build a bed that can fold into a couch.&lt;/p&gt;
+&lt;p&gt;The couch is designed to be L-shaped, with a folding section that extends to make a bed.&lt;/p&gt;
+&lt;p&gt;The basic frame was built using 2x2s and 2x4s. The vertical supports were bolted thrrough the floor of the van using lag bolts from underneath and huge fender washers.&lt;/p&gt;
+&lt;p&gt;The wall attachments use galvanized lumber hangers.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Build-a-Folding-Bed-Platform-in-Your-Van/1-framing-basic.jpg&quot; alt=&quot;Framing_basic&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The joists for the bed are velcro attached 2x2s. This was an easy way to make them removable, but is not very stable. It worked for our 3 week trip, but I&amp;#39;d like to improve it.&lt;/p&gt;
+&lt;p&gt;The couch back interlocks with the other 2x2s and so folds in an unconventional way. I think it will work, but I can&amp;#39;t be sure until I get foam in place for the bed and matress.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Build-a-Folding-Bed-Platform-in-Your-Van/3-framing-fold-up.jpg&quot; alt=&quot;Framing_fold_up&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Build-a-Folding-Bed-Platform-in-Your-Van/2-framing-fold-down.jpg&quot; alt=&quot;Framing_fold_down&quot;&gt;&lt;/p&gt;
+&lt;p&gt;We used it as a matress platform and it‘s great for that, but I’m not sure how convertabile it is at this point.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-31_Build-a-Folding-Bed-Platform-in-Your-Van/4-framing-with-mattress.jpg&quot; alt=&quot;With Matress&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Update&lt;/h3&gt;
+&lt;p&gt;The folding system didn‘t work well. I’ve removed the folding portion. The point where the extended platform meets the far support gets a lot of stress, and the manner of folding means cargo can‘t really be under the couch. I’m working on a different way to do this.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Add Sound and Heat Resistance to Your Van with DIY Lizardskin</title>
+      <link>http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/</link>
+      <pubDate>Tue, 29 Jan 2013 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/</guid>
+      <author></author>
+      <description>&lt;p&gt;Prepared a cargo van for heat/sound proofing and rust prevention.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;After emptying out the van, the next step was to clean the interior, paint it with a heat/sound proof coating, and add a few pieces of sound deadening material.&lt;/p&gt;
+&lt;p&gt;Interior Cleaning&lt;/p&gt;
+&lt;p&gt;I used a product called TSP, Trisodium Phosphate, to prepare the van for painting. It seems to be what people recommend. I think it worked ok, but the paint does still scrape off easily. Could be that I used latex paint, but I do wish I‘d rough sanded the walls a bit. I think it’ll still stick ok, since the paint will be protected behind layers of insulation and paneling later. This stuff is pretty scary looking, so I wore gloves and a mask and stuff.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/1-tsp-cleaning-prep.jpg&quot; alt=&quot;TSP Cleaning Agent&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Heat &amp;amp; Sound Blocking Paint&lt;/p&gt;
+&lt;p&gt;Lizardskin is an expensive product that hot rod builders use to deaden sound and block some heat transfer. Folks online say that you can make your own substitute by mixing ceramic microbeads with paint. I bought my paint from the Wal-mart mismade color section my beads from Wicks Aircraft Supply. Most folks seem to recommend a 1 gallon of paint to 1lb of microbeads ratio. That&amp;#39;s what I did. If the TSP was scary, microbeads were from a vampire laser dinosaur horror film. The stuff looks like a liquid and a powder at once. I bought the full Darth Vader mask for this stuff. Takes forever to mix up. I mixed it and painted it all over the inside.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/3-doors.jpg&quot; alt=&quot;Doors&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/5-interior-van-painted.jpg&quot; alt=&quot;Wet_paint&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/2-door.jpg&quot; alt=&quot;Door&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/4-mixing-diy-lizard-skin.jpg&quot; alt=&quot;Mixing&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/4-me-mask.jpg&quot; alt=&quot;Respirator for Mixing Paint&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.camperize.com/ceramic-paint-microbeads.html&quot;&gt;http://www.camperize.com/ceramic-paint-microbeads.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.collegeparktuning.com/showthread.php?t=2712&quot;&gt;http://www.collegeparktuning.com/showthread.php?t=2712&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.hotrodders.com/forum/alternative-lizard-skin-103610-13.html&quot;&gt;http://www.hotrodders.com/forum/alternative-lizard-skin-103610-13.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sound Deadening Tiles&lt;/p&gt;
+&lt;p&gt;To begin to deaden sound, one needs to stop the metal from vibrating. Dinamat is the brand name of this material. Folks seem to say that roofing products more or less do the same thing. They&amp;#39;re asphalt based and outgas nasty petroleum based stuff, so I limited my use of them.&lt;/p&gt;
+&lt;p&gt;Based on advice from the source below, I believe that I only need about 25% coverage for these sound deadening tiles to be effective. (judging now, with everything else in place, sound suppression seems very good)&lt;/p&gt;
+&lt;p&gt;I tried to put them inside the doors and on the largest flat pieces of sheet metal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/7-interior-sound-deadening.jpg&quot; alt=&quot;Deadened&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/6-paint-and-sound-deadening.jpg&quot; alt=&quot;Dead_doors&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Add-Sound-and-Heat-Resitance-to-Your-Car-With-DIY-Lizardskin-and-Dynamat-Alternative/8-sound-deadening-product.jpg&quot; alt=&quot;Product&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.sounddeadenershowdown.com/&quot;&gt;http://www.sounddeadenershowdown.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Prepare Your Van for a 3 Week Cross-Country Road Trip</title>
+      <link>http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/</link>
+      <pubDate>Tue, 29 Jan 2013 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/</guid>
+      <author></author>
+      <description>&lt;p&gt;I did a flurry of work on the van in preparation for a 3 week cross-crountry road trip. It started with a lot of drawing, as many things do if you‘re trying to avoid real work, or if you hire a design school graduate. Graph paper was the best medium for this kind of drawing and I’d suggest it for you and your children&amp;#39;s children.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I did a flurry of work on the van in preparation for a 3 week cross-crountry road trip. It started with a lot of drawing, as many things do if you‘re trying to avoid real work, or if you hire a design school graduate. Graph paper was the best medium for this kind of drawing and I’d suggest it for you and your children&amp;#39;s children.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/1-planning.jpg&quot; alt=&quot;Planning&quot;&gt;&lt;/p&gt;
+&lt;p&gt;After drawing, visiting home improvment stores, drawing some more, and settling on a plan, I had to look at the current state of the van and empty it out.&lt;/p&gt;
+&lt;p&gt;Cleaning House&lt;/p&gt;
+&lt;p&gt;The existing bed was not attached to the van chassis and was a solid piece. It didn&amp;#39;t do the cool couch-to-bed folding that I wanted out for a real professional rubbertramping bedcouch. It was also extremely… dynamic… in the event of a rapid, collision-style stop.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/2-matress.jpg&quot; alt=&quot;Original Matress and frame&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/3-original-bedframe.jpg&quot; alt=&quot;Original Bedframe&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Emptied Out:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/4-empty-dirty-van.jpg&quot; alt=&quot;Empty&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/5-empty-dirtyish-van.jpg&quot; alt=&quot;Totally_bare&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Initial Framing&lt;/p&gt;
+&lt;p&gt;After clearing out the van, I did some inital framing of the furniture.&lt;/p&gt;
+&lt;p&gt;I set up an outdoor workshop:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/6-workshop.jpg&quot; alt=&quot;Workshop&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Then I framed the L shape for the convertable bed/couch. I decided to frame in 2x2s, which was a good decision I think. 2x4s then became a good size for vertical supports. Building the furniture frame at this point was mostly a waste of time since the floor and wall framing should happen first, but I didn&amp;#39;t know that when I started. It was nice to see the drawing turn into something real, but I found it got in the way while I was working on the floor and walls later. The mounting points and style had to change later as the floor added height and the wall framing suggested some different ideas for attaching to the wall.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/7-couch-bed-frame.jpg&quot; alt=&quot;Couch Bed Frame in Van&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/8-fancy-joint.jpg&quot; alt=&quot;&amp;#39;Fancy&amp;#39; 2x2 Joint&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/9-couch-detail.jpg&quot; alt=&quot;Couch frame detail&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2013-01-30_Prepare-Your-Van-For-a-3-Week-Cross-Country-Tip/10-wall-attachments.jpg&quot; alt=&quot;Wall attachments from frame to van&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>How to Build a Wooden Bedframe in a Van</title>
+      <link>http://www.downbytheriver.us/articles/2011-09-25_Build-a-Simple-Wooden-Bedframe-In-a-Van/</link>
+      <pubDate>Fri, 24 Sep 2010 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2011-09-25_Build-a-Simple-Wooden-Bedframe-In-a-Van/</guid>
+      <author></author>
+      <description>&lt;p&gt;In preparation for a move from PA to FL, I need both a sleeping area and some storage for the things I&amp;#39;m moving in the van.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I have some ambitious plans for building out the interior. This planning amounts to fancy procrastination and it has delayed the building of any kind of bed. I have been rolling around with a queen size mattress on the floor of the van for the past year or so. It&amp;#39;s effective and comfortable, but a huge waste of space.&lt;/p&gt;
+&lt;p&gt;I am about to relocate from &lt;a href=&quot;http://maps.google.com/maps?q=philadelphia+pa+to+panama+city+fl&quot;&gt;Philadelphia to Panama City&lt;/a&gt;, so I need both a sleeping area and some storage for the things I&amp;#39;m moving in the van.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2011-09-25_Build-a-Simple-Wooden-Bedframe-In-a-Van/1-trip-map.png&quot; alt=&quot;Trip Map&quot;&gt;&lt;/p&gt;
+&lt;p&gt;My solution was a quick and easy wooden bedframe designed specifically to be an inch taller than the gray storage bins I buy at Walmart.&lt;/p&gt;
+&lt;p&gt;Cost for all supplies was $74.57. Time invested was something like 5 hours. It could have been done cheaper using wood braces and lots of 45 degree mitre cuts, but I had already packed my power tools so I was working with a hand saw. The metal joining brackets I used made this much easier to build, though more expensive.&lt;/p&gt;
+&lt;p&gt;Steps&lt;/p&gt;
+&lt;p&gt;1: Sketch out a plan. This was done at Home Depot in the lumber section.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2011-09-25_Build-a-Simple-Wooden-Bedframe-In-a-Van/2-plan.jpg&quot; alt=&quot;Sketches&quot;&gt;&lt;/p&gt;
+&lt;p&gt;2: Build Rectangle. This could be done outside the van. If I had put legs on it, it wouldn&amp;#39;t have fit through the door, so I had to build the rest inside the van.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2011-09-25_Build-a-Simple-Wooden-Bedframe-In-a-Van/3-build-frame.jpg&quot; alt=&quot;Outside&quot;&gt;&lt;/p&gt;
+&lt;p&gt;3: Build the Rest. The metal brackets made this an easy build—it was almost as easy as building with lego.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2011-09-25_Build-a-Simple-Wooden-Bedframe-In-a-Van/4-corner-brace.jpg&quot; alt=&quot;Corner&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2011-09-25_Build-a-Simple-Wooden-Bedframe-In-a-Van/5-angle-brace.jpg&quot; alt=&quot;Legbrace&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2011-09-25_Build-a-Simple-Wooden-Bedframe-In-a-Van/6-double-brace.jpg&quot; alt=&quot;Supportbeam&quot;&gt;&lt;/p&gt;
+&lt;p&gt;4: Result&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2011-09-25_Build-a-Simple-Wooden-Bedframe-In-a-Van/7-finished-bed-frame-in-van.jpg&quot; alt=&quot;Complete Wooden Bed Frame in Van&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>How to Install Vents in a Fiberglass Roof</title>
+      <link>http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/</link>
+      <pubDate>Fri, 18 Jun 2010 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/</guid>
+      <author></author>
+      <description>&lt;p&gt;I finally cut into the roof today…&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;The Plan&lt;/h2&gt;
+&lt;p&gt;I finally cut into the roof today. I threw all my stuff up on the high top: foam padding, drill, marker, mask, vent trim to outline the shape… Then I climbed up and got nervous. How do I know where in the interior this is going to come down?&lt;/p&gt;
+&lt;p&gt;So I changed plans. I got inside the van, marked out where I was going to put the van, got the drill all set up, took a deep breath, and started drilling. Hot plastic flying everywhere (it was a mess), and finally a hole punches through. It&amp;#39;s dark. Not bright, like the sky. I get a light and take a look.&lt;/p&gt;
+&lt;p&gt;6 inches of air space between me and another fiberglass panel. I knew the roof was some kind of sandwich construction but I thought they‘d be more efficient about it. I can’t line up two holes with 6&amp;quot; of space between them. So i cut a bigger hole. Now I can see what‘s going on. And it sucks. There’s insulation, wiring for the roof lights, steel reinforcement (!). Not making my vent installation job easy. So I tape up the hole I cut out and quit for the day.&lt;/p&gt;
+&lt;p&gt;Next day, I come back and I decide I&amp;#39;m going to see if i can just rip out the inner roof.&lt;/p&gt;
+&lt;p&gt;So I do.&lt;/p&gt;
+&lt;p&gt;That… was dramatic. Made a big impact. I think I‘ll be able to make better use of space now (the old inner roof wasted tons of space above the driver’s compartment), but it&amp;#39;s a total mess. Foil face jute, steel crossmembers everywhere…&lt;/p&gt;
+&lt;p&gt;I guess I&amp;#39;m finishing the roof now.&lt;/p&gt;
+&lt;p&gt;Here&amp;#39;s the new plan:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Install roof vents (since the roof is curved this will involve some kind of fabrication [bondo?])&lt;/li&gt;
+&lt;li&gt;Paint interior w/ insulative paint&lt;/li&gt;
+&lt;li&gt;Install side window&lt;/li&gt;
+&lt;li&gt;Frame interior (small wood braces to tack paneling to and give the insulation some room&lt;/li&gt;
+&lt;li&gt;Insulate (foil faced jute?)&lt;/li&gt;
+&lt;li&gt;Panel the interior (I found a nice looking bamboo paneling, and I&amp;#39;m thinking thin carpet for the roof)&lt;/li&gt;
+&lt;li&gt;Build/Install Bed and cabinet system out of pipe or t-slotted aluminum extrusion&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;The Execution&lt;/h2&gt;
+&lt;p&gt;This is a step by step description of installing aftermarket/eBay roof vents in a camper van with a fiberglass high top roof. The vents are nice because heat rises and this way you can let it out. I learned most of these methods from different internet sources (linked at the bottom), but there was no good central place with lots of pictures, so I thought I&amp;#39;d make one. Hope this helps, feel free to leave questions in the comments.&lt;/p&gt;
+&lt;h3&gt;Step 1: Make a Template&lt;/h3&gt;
+&lt;p&gt;I started by making a template out of cardboard that matched the size of the hole I wanted to cut in the roof. The best way I found was to trace the plastic trim piece (the part that actually drops through the roof), then cut out the result. I was going to skip making templates but I‘m so glad I didn’t. It made the process much easier.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/1-template-roof-vent.jpg&quot; alt=&quot;Roof Vent Template&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Step 2: Mark the Cut on the Inside of the Roof&lt;/h3&gt;
+&lt;p&gt;Just trace around the template&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/2-trace-template.jpg&quot; alt=&quot;Traced Template on Roof&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Step 3: Build Wooden Frames&lt;/h3&gt;
+&lt;p&gt;The inner dimension of the frame should match the size of the hole you‘ll cut. The wood frames give the vent something to screw in to—the fiberglass isn’t really enough.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/3-build-wooden-frame.jpg&quot; alt=&quot;Build Wooden Frame for Vent&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Step 4: Attach the Wooden Frames to the Roof&lt;/h3&gt;
+&lt;p&gt;This was actually pretty futile. I used a liquid nails knock off and didn&amp;#39;t want it to offgas too much so I used it lightly. It was useful to make sure the fit was right, but these kept falling off when the drilling and cutting started. Oh—it was also useful because I cut the round corners with a doorknob hole drillbit, so it was easy to mark the right center starting point with these frames in place.  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/4-attach-wood-frame-fiberglass-roof.jpg&quot; alt=&quot;Attach Frame to Fiberglass Roof&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Step 5: Make the First Cut&lt;/h3&gt;
+&lt;p&gt;With the wood frames in place, mark all the center points for your drilling. I used a drill bit meant for doing doorknobs, and it worked great. Just get the outside flush with both corners, and drill a little intil the center bites in enough to leave a mark. Do this for all four corners. Then start really cutting on whatever corner you think is the ugliest. The fiberglass is a mess, so wear clothes you&amp;#39;ll throw away and a dust mask. The wood frames started falling apart at this point, but it was OK since all the corner locations were marked.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/5-make-first-cut-in-fiberglass-roof.jpg&quot; alt=&quot;Make the First Cut in Your Fiberglass Roof&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Step 6: Finish the Corner Cuts&lt;/h3&gt;
+&lt;p&gt;Finish the other three corner cuts (hopefully you‘ve marked them accurately). Then draw straight lines on the outside of the roof between each corner. This will help you keep the jigsaw straight. You could try and do the straight cuts from inside, but I didn’t want to try doing that upside-down.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/6-cut-round-corners-in-fiberglass.jpg&quot; alt=&quot;Finish the Corner Cuts&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Step 7: Make the Straight Cuts&lt;/h3&gt;
+&lt;p&gt;Using a jigsaw and a metal cutting blade (what the Home Depot guy recommended for fiberglass), make straight cuts between the corner holes. The construction of the vents gives you plenty of wiggle room, but I still tried to keep the cuts as straight as I could.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/7-straight-cuts-in-fiberglass.jpg&quot; alt=&quot;Whole shape cut out&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Step 8: Test Fit Your Cut&lt;/h3&gt;
+&lt;p&gt;This is the moment of truth. Hope you cut the hole accurtely and drop the vent in from the top. Also, a major concern for me was the slope of the roof. I picked the flattest place I could to install the vent, but as you can see in the picture, there‘s still a big difference in the gap’s size as the slope of the roof changes. Because the gap difference was large, I agonized for a while over whether I wanted to use bondo to flatten the mating surface or not. I finally decided to leave it as is and seal it directly to the roof.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/8-dry-fit-vent-in-roof.jpg&quot; alt=&quot;Dry Fit Vent in Fiberglass Roof&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Step 9: Use Butyl Tape to Seal the Vent&lt;/h3&gt;
+&lt;p&gt;This stuff is wonderful, easy to work with, and forgiving. It never hardens, and waterproofs completely. Love it for this purpose. Grab a roll of Butyl tape from Amazon or an RV supply store. Then just peel off the adhesive and stick it to the vent. (it‘ll be stringy like chewed gum if it’s hot out, so leave the roll in the fridge for an hour or so if it‘s being a pain). I used extra layers of Butyl where the vent had a larger gap to accomodate the roof’s slope. Just tape all four sides and then smush the vent down into place. If the fit looks alright, start to screw the vent down, right through the Butyl. Once this is done, you should have squeezed out lots of extra Butyl tape and have a nice fit on your roof vent. (the picture shows this on the 2nd vent. I installed 2, don&amp;#39;t let that confuse you—same process)&lt;/p&gt;
+&lt;p&gt;Butyl Tape Source:&lt;br&gt;&lt;a href=&quot;http://www.amazon.com/United-States-R-011B-Butyl-Seal/dp/B000BQUPYE/ref=pd_cp_hi_1&quot;&gt;&lt;a href=&quot;http://www.amazon.com/United-States-R-011B-Butyl-Seal/dp/B000BQUPYE/ref=pd_cp&quot;&gt;http://www.amazon.com/United-States-R-011B-Butyl-Seal/dp/B000BQUPYE/ref=pd_cp&lt;/a&gt;…&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/9a-seal-vent-to-roof-with-butyl.jpg&quot; alt=&quot;Vents sealed with Butyl&quot;&gt;
+&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/9b-seal-vent-to-roof-with-butyl.jpg&quot; alt=&quot;One Vent sealed with Butyl&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Step 10: Clean Up the Excess Butyl&lt;/h3&gt;
+&lt;p&gt;Use a plastic knife with the seratted edge filed off to clean up the excess butyl tape and give your install a nice smooth look. (thanks for the tip, random internet stranger!). The plastic knife does the job pretty well. I‘m sure there’s a fancier tool available if you like being fancy. Maybe you‘ll get lucky and it’ll come with a free martini glass.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/10-remove-excess-butyl-putty.jpg&quot; alt=&quot;Remove Excess Butyl Putty&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Step 11: Seal the Screw Holes&lt;/h3&gt;
+&lt;p&gt;(requisite screw holes giggity) Just go over the top of the screw holes with a little bit of non-silicone based sealant. I used Dyco C-10 Flow Seal. Some internet person (in the sources below) said it was great, and I found it to work very well, too. You can buy it here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/White-C-10-Flow-Leveling-Caulk/dp/B0009N4J6E/ref=sr_1_1?ie=UTF8&amp;amp;s=hi&amp;amp;qid=1281829420&amp;amp;sr=1-1&quot;&gt;&lt;a href=&quot;http://www.amazon.com/White-C-10-Flow-Leveling-Caulk/dp/B0009N4J6E/ref=sr_1_1&quot;&gt;http://www.amazon.com/White-C-10-Flow-Leveling-Caulk/dp/B0009N4J6E/ref=sr_1_1&lt;/a&gt;…&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I‘m not sure this step is even necessary, since the screws go in to Butyl anyway, but if the internet tells me to do something, it’s hard to resist. Anyway, it has worked well and I&amp;#39;d do it again. (oh boy, another giggity opportunity)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/11-seal-screw-holes.jpg&quot; alt=&quot;Seal Screw Holes&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Appendix A: The Final Appearance from the Inside&lt;/h3&gt;
+&lt;p&gt;I suppose “final” is relative—I haven&amp;#39;t paneled or otherwised finished the interior. But this is what it looks like.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-08-14_How-to-Install-Vents-in-a-Fiberglass-Van-Roof/12-interior-of-roof-vent.jpg&quot; alt=&quot;Interior View&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Appendix B: Wrap Up&lt;/h3&gt;
+&lt;p&gt;So that‘s all there was to it. Really not as bad as I was expecting. Overall, I’d just suggest measuring very carefully, cutting slowly, and making sure you have the right materials prepared before you cut the first hole. I was very cautious about cutting into the roof of my van, so I read &lt;em&gt;a lot&lt;/em&gt; before starting. The best sources I listed below. I hope this helps someone else.&lt;/p&gt;
+&lt;p&gt;Sources:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rv-roadtrips.thefuntimesguide.com/2008/10/rv_roof_vent.php&quot;&gt;http://rv-roadtrips.thefuntimesguide.com/2008/10/rv_roof_vent.php&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://rvtravel.com/blog/lowtech/2007/04/its-putty-tape-time.html&quot;&gt;http://rvtravel.com/blog/lowtech/2007/04/its-putty-tape-time.html&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.sunlineclub.com/forums/f71/replacing-roof-vents-101-with-pics-8922.html&quot;&gt;&lt;a href=&quot;http://www.sunlineclub.com/forums/f71/replacing-roof-vents-101-with-pics-8922&quot;&gt;http://www.sunlineclub.com/forums/f71/replacing-roof-vents-101-with-pics-8922&lt;/a&gt;…&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.fiberglassrv.com/forums/f55/butyl-tape-silicone-and-sealing-24715.html&quot;&gt;&lt;a href=&quot;http://www.fiberglassrv.com/forums/f55/butyl-tape-silicone-and-sealing-24715&quot;&gt;http://www.fiberglassrv.com/forums/f55/butyl-tape-silicone-and-sealing-24715&lt;/a&gt;….&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.plustape.com/BK/index.htm&quot;&gt;http://www.plustape.com/BK/index.htm&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=YMru54UY6Aw?wmode=transparent&quot;&gt;http://www.youtube.com/watch?v=YMru54UY6Aw?wmode=transparent&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Appendix C: 2 Years Later&lt;/h3&gt;
+&lt;p&gt;It‘s been 2 years since I’ve installed these. They haven&amp;#39;t leaked a bit and seem to be holding up great. This method worked great, highly recommended.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Van Interior Prep and Rust Prevention</title>
+      <link>http://www.downbytheriver.us/articles/2010-05-31_Van-Interior-Prep-and-Rust-Prevention/</link>
+      <pubDate>Sun, 30 May 2010 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2010-05-31_Van-Interior-Prep-and-Rust-Prevention/</guid>
+      <author></author>
+      <description>&lt;p&gt;How I prepped the interior of a cargo van for RV conversion.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Removed old cargo management system and divider wall&lt;/li&gt;
+&lt;li&gt;Removed plywood floor&lt;/li&gt;
+&lt;li&gt;Removed rust and screws from the interior floor with sandpaper, wire brushed, a grinder fitted with a flap sanding disc (this was awesomely effective)&lt;/li&gt;
+&lt;li&gt;Painted with Rustoleum&amp;#39;s White Clean Metal Primer&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>Mockup of a Van Furniture Layout</title>
+      <link>http://www.downbytheriver.us/articles/2010-05-19_Mockup-of-A-Van-Build/</link>
+      <pubDate>Tue, 18 May 2010 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2010-05-19_Mockup-of-A-Van-Build/</guid>
+      <author></author>
+      <description>&lt;p&gt;I planned and drew a lot while trying to figure out how to lay out the interior of the van, but sometimes you have to see it in the space. The best I could do what cardboard boxes to prototype the layout in real space.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-05-19_Mockup-of-A-Van-Build/furniture-mockup-1.jpg&quot; alt=&quot;Furniture Mockup&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The bench to the left. The couch/bed structure is L shaped.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-05-19_Mockup-of-A-Van-Build/furniture-mockup-2.jpg&quot; alt=&quot;Furniture Mockup&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Rear view of the L shaped bench and fake sink/heater/closet&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>How to Select a Van for RV Conversion</title>
+      <link>http://www.downbytheriver.us/articles/2010-05-06_How-to-Buy-a-Van-for-RV-Conversion/</link>
+      <pubDate>Wed, 05 May 2010 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2010-05-06_How-to-Buy-a-Van-for-RV-Conversion/</guid>
+      <author></author>
+      <description>&lt;p&gt;The first step in the process is buying a van, and after a year of looking, planning, and hem-hawing, I did it.I found a 2006 Ford e350 on ebay for $5000 so I scooped it up.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.downbytheriver.us/articles/2010-05-06_How-to-Buy-a-Van-for-RV-Conversion/ford-e350-high-top.jpg&quot; alt=&quot;My Van&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The first step in the process is buying a van, and after a year of looking, planning, and hem-hawing, I did it.&lt;/p&gt;
+&lt;p&gt;I found a 2006 Ford e350 on ebay for $5000 so I scooped it up.&lt;/p&gt;
+&lt;p&gt;I was leaning towards the sprinter chassis for it‘s integrated high top and superior gas mileage, but when I worked out the cost savings for the gas mileage difference it didn’t make up for how much more expensive a sprinter would have been.&lt;/p&gt;
+&lt;p&gt;I figured that with an average of 300 miles traveled per week and gas prices of $3.25, I‘d only be saving $1230 a year driving the sprinter. And to get a sprinter I’d be paying probably $10,000 total, it would have more miles on it, and the parts and repairs would be more expensive.&lt;/p&gt;
+&lt;p&gt;So I&amp;#39;m happy with the decision and feel after driving this for a few days and working on the interior a bit that the e350 will be a fine chassis to build on.&lt;/p&gt;
 </description>
     </item>
     <item>
       <title>Selecting Safe and Warm Van Insulation</title>
-      <link>http://localhost:8080/articles/2010-05-Selecting-Safe-and-Warm-Van-Insulation/</link>
+      <link>http://www.downbytheriver.us/articles/2010-05-02_Selecting-Safe-and-Warm-Van-Insulation/</link>
       <pubDate>Sat, 01 May 2010 17:00:00 -0700</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/2010-05-Selecting-Safe-and-Warm-Van-Insulation/</guid>
+      <guid isPermaLink="true">http://www.downbytheriver.us/articles/2010-05-02_Selecting-Safe-and-Warm-Van-Insulation/</guid>
       <author></author>
       <description>&lt;p&gt;I am considering a few things for my insulation:
 Staying cool in the summer, staying warm on chilly nights, not taking away too much interior space, and not offgassing dangerous chemicals.&lt;/p&gt;

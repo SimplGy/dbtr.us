@@ -1,5 +1,7 @@
 extends layout
 
+
+
 block content
   include author
   each article in articles
@@ -10,10 +12,12 @@ block content
         h2
           a(href=article.url)= article.title
       section.content
-        !{ typogr(article.intro).typogrify() }
+        |!{ typogr(article.intro).typogrify() }
         if article.hasMore
           p.more
             a(href=article.url) more
+
+
 
 block prepend footer
   div.nav
