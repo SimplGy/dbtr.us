@@ -11,6 +11,11 @@ To run in development mode:
 
     wintersmith preview
 
+To shrink images:
+
+    # Inside a blog post folder
+    sips -Z 1200 *.jpg
+
 To build:
 
     wintersmith build
