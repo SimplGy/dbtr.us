@@ -3,7 +3,6 @@ title: How to Install Click Flooring in a van
 author: Eric
 date: 2013-04-01
 template: article.jade
-thumbnail: https://samejordan.files.wordpress.com/2011/04/171116_933033326665_9420873_48800528_5982002_o.jpg
 thumb: click-flooring-in-van.jpg
 ---
 
