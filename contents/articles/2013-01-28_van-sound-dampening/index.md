@@ -1,15 +1,16 @@
 ---
 title: Add Sound and Heat Resistance to Your Van with DIY Lizardskin
 author: Eric
-date: 2013-01-30
+date: 2013-01-28
 template: article.jade
+thumb: 7-interior-sound-deadening.jpg
 ---
 
 Prepared a cargo van for heat/sound proofing and rust prevention.
 
 <span class="more"></span>
 
-After emptying out the van, the next step was to clean the interior, paint it with a heat/sound proof coating, and add a few pieces of sound deadening material.
+To keep external sound under control, it's a good idea to paint the interior of the van with a heat/sound proof coating, and add a few pieces of sound deadening material.
 
 Interior Cleaning
 

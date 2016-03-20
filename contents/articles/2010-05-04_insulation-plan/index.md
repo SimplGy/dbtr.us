@@ -1,14 +1,17 @@
 ---
 title: Selecting Safe and Warm Van Insulation
 author: Eric
-date: 2010-05-02
+date: 2010-05-04
 template: article.jade
+thumb: insulation-methods.jpg
 ---
 
 I am considering a few things for my insulation:
 Staying cool in the summer, staying warm on chilly nights, not taking away too much interior space, and not offgassing dangerous chemicals.
 
 <span class="more"></span>
+
+![Insulation types](insulation-methods.jpg)
 
 It turns out to be hard to find safety data for insulation when used in a very enclosed space like a van.
 

@@ -3,6 +3,7 @@ title: How to Install Vents in a Fiberglass Roof
 author: Eric
 date: 2010-06-19
 template: article.jade
+thumb: 11-seal-screw-holes.jpg
 ---
 
 I finally cut into the roof today...

@@ -1,7 +1,5 @@
 extends layout
 
-
-
 block content
   include author
   each article in articles
@@ -11,13 +9,15 @@ block content
           span= moment(article.date).format('DD. MMMM YYYY')
         h2
           a(href=article.url)= article.title
+
+      if article.metadata.thumb
+        div.thumbnail(style="background-image: url('" + env.plugins.MarkdownPage.resolveLink(article, article.metadata.thumb, env.config.baseUrl) + "');")
+
       section.content
         |!{ typogr(article.intro).typogrify() }
         if article.hasMore
           p.more
             a(href=article.url) more
-
-
 
 block prepend footer
   div.nav

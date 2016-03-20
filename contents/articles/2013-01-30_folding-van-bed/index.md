@@ -1,17 +1,16 @@
 ---
 title: Build a Folding Bed Platform in Your Van
 author: Eric
-date: 2013-01-31
+date: 2013-01-30
 template: article.jade
+thumb: 3-framing-fold-up.jpg
 ---
 
 I wanted to build a bed that can fold into a couch.
 
+I was thinking something L-shaped, with a folding section that extends to make a bed.
+
 <span class="more"></span>
-
-I wanted to build a bed that can fold into a couch.
-
-The couch is designed to be L-shaped, with a folding section that extends to make a bed.
 
 The basic frame was built using 2x2s and 2x4s. The vertical supports were bolted thrrough the floor of the van using lag bolts from underneath and huge fender washers.
 

@@ -194,8 +194,10 @@ footer .copy, footer .copy a {
 
 .article header .date {
   text-align: center;
-  font-size: 0.8em;
-  margin-top: -0.7em;
+  font-size: 0.7em;
+  margin-top: -0.8em;
+  margin-bottom: 0.5em;
+  color: #999;
 }
 
 .article header .date span {
@@ -203,8 +205,18 @@ footer .copy, footer .copy a {
   padding: 0 0.7em;
 }
 
+
+
+/* ---------------------------------------------------------- .article.intro */
+
+.article.intro h2 {
+  font-size: 1.2em;
+  margin: 0.5em 0;
+}
+
 .article.intro .content p {
   display: inline;
+  font-size: 0.9em;
 }
 
 .article.intro .content .more {
@@ -212,6 +224,19 @@ footer .copy, footer .copy a {
   font-weight: 700;
   padding-left: 0.3em;
 }
+
+.article.intro .thumbnail {
+  width: 100%;
+  height: 200px;
+  margin: 0.5em 0;
+  background-color: rgba(0,0,0,.05);
+  background-size: cover;
+  background-position: center center;
+  border-radius: 2px;
+}
+
+
+
 
 .article .content img {
   display: block;
@@ -385,6 +410,7 @@ code.lang-markdown .bullet {
 }
 
 @media (max-width: 690px) {
+  body { font-size: 16px; }
   .content-wrap {
     width: auto;
     padding: 0 1em;
@@ -401,6 +427,9 @@ code.lang-markdown .bullet {
   }
   .article {
     margin: 1em 0 2.5em;
+  }
+  .article.intro .thumbnail {
+    height: 120px;
   }
   .archive {
     width: 80%;

@@ -1,7 +1,7 @@
 ---
 title: Mockup of a Van Furniture Layout
 author: Eric
-date: 2010-05-19
+date: 2010-05-01
 template: article.jade
 ---
 
