@@ -1,8 +1,15 @@
 {
   "dependencies": {
     "moment": "2.x",
-    "underscore": "1.4.x",
-    "typogr": "0.5.x"
+    "s3": "^4.4.0",
+    "typogr": "0.5.x",
+    "underscore": "1.4.x"
   },
-  "repository": "none"
+  "repository": "none",
+  "scripts": {
+    "env": "env",
+    "start": "wintersmith preview",
+    "predeploy": "wintersmith build",
+    "deploy": "node deploy.js"
+  }
 }
