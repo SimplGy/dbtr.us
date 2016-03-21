@@ -29,7 +29,9 @@ To build assets into a static site:
 The app is hosted on aws. To deploy, aws needs to be configured using a json file you create called `.aws.config.json`. This isn't checked in to git because it has secret keys:
 
     {
-      "":""
+    	"bucket": "www.downbytheriver.us",
+    	"accessKeyId": "ACCESS_KEY_ID",
+    	"secretAccessKey": "SECRET"
     }
 
 Then you can build and deploy in one line with:
