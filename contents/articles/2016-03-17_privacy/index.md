@@ -1,5 +1,6 @@
 ---
 title: Window Blocking Panels for Privacy and Warmth
+shortName: Window Privacy
 author: Eric
 date: 2016-03-17
 template: article.jade

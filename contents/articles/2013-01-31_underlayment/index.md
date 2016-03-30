@@ -1,5 +1,6 @@
 ---
 title: Van Floor Moisture Barrier and Underlayment
+shortName: Flooring
 author: Eric
 date: 2013-01-31
 template: article.jade

@@ -1,5 +1,6 @@
 ---
 title: Selecting Safe and Warm Van Insulation
+shortName: Insulation
 author: Eric
 date: 2010-05-04
 template: article.jade

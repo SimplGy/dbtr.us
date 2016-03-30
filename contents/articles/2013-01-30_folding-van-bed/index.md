@@ -1,5 +1,6 @@
 ---
 title: Build a Folding Bed Platform in Your Van
+shortName: Folding Bed
 author: Eric
 date: 2013-01-30
 template: article.jade

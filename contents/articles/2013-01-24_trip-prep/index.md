@@ -1,5 +1,6 @@
 ---
 title: Prepare Your Van for a 3 Week Cross-Country Road Trip
+shortName: Trip Prep
 author: Eric
 date: 2013-01-24
 template: article.jade

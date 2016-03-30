@@ -1,12 +1,13 @@
 ---
 title: How to Select a Van for RV Conversion
+shortName: The Van
 author: Eric
-date: 2010-05-01
+date: 2010-05-01 
 template: article.jade
 thumb: ford-e350-high-top.jpg
 ---
 
-The first step in the process is buying a van, and after a year of looking, planning, and hem-hawing, I did it.I found a 2006 Ford e350 on ebay for $5000 so I scooped it up.
+The first step in the process is buying a van, and after a year of looking, planning, and hem-hawing, I did it. I found a 2006 Ford e350 on ebay for $5000 so I scooped it up.
 
 <span class="more"></span>
 

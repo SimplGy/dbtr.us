@@ -39,5 +39,9 @@ Then you can build and deploy in one line with:
     npm run deploy
 
     
+## TODO
 
+- [x] Home page: Grid of 1 or 2 word van features linking to articles
+- [ ] Large version of the same image as the banner of each article
+- [ ] Make a van `favicon.ico`
     

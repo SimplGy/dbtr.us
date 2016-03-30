@@ -1,5 +1,6 @@
 ---
 title: Add Sound and Heat Resistance to Your Van with DIY Lizardskin
+shortName: Sound Deadening
 author: Eric
 date: 2013-01-28
 template: article.jade

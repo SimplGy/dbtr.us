@@ -1,31 +1,39 @@
 extends layout
 
+
 block content
   include author
-  each article in articles
-    article.article.intro
-      header
-        p.date
-          span= moment(article.date).format('DD. MMMM YYYY')
-        h2
-          a(href=article.url)= article.title
+  ul.unstyledList.articleList
+    each article in articles
+      li(style="background-image: url('" + env.plugins.MarkdownPage.resolveLink(article, article.metadata.thumb, env.config.baseUrl) + "');")
+        a(href=article.url)= article.metadata.shortName
 
-      if article.metadata.thumb
-        a(href=article.url)
-          div.thumbnail(style="background-image: url('" + env.plugins.MarkdownPage.resolveLink(article, article.metadata.thumb, env.config.baseUrl) + "');")
 
-      section.content
-        |!{ typogr(article.intro).typogrify() }
-        if article.hasMore
-          p.more
-            a(href=article.url) more
+
+  //each article in articles
+  //  article.article.intro
+  //    header
+  //      p.date
+  //        span= moment(article.date).format('DD. MMMM YYYY')
+  //      h2
+  //        a(href=article.url)= article.title
+  //
+  //    if article.metadata.thumb
+  //      a(href=article.url)
+  //        div.thumbnail(style="background-image: url('" + env.plugins.MarkdownPage.resolveLink(article, article.metadata.thumb, env.config.baseUrl) + "');")
+  //
+  //    section.content
+  //      |!{ typogr(article.intro).typogrify() }
+  //      if article.hasMore
+  //        p.more
+  //          a(href=article.url) more
 
 block prepend footer
   div.nav
     if prevPage
       a(href=prevPage.url) « Newer
-    else
-      a(href='/archive.html') « Archives
+    //else
+    //  a(href='/archive.html') « Archives
     if nextPage
       a(href=nextPage.url) Next page »
 

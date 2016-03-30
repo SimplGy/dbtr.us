@@ -1,5 +1,6 @@
 ---
 title: How to Install Vents in a Fiberglass Roof
+shortName: Skylights
 author: Eric
 date: 2010-06-19
 template: article.jade

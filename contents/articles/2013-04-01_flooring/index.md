@@ -1,5 +1,6 @@
 ---
 title: How to Install Click Flooring in a van
+shortName: Flooring 2
 author: Eric
 date: 2013-04-01
 template: article.jade
