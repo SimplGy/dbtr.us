@@ -8,13 +8,25 @@ block prepend title
   | #{ page.title + " - "}
 
 block header
-  header.postHeader(style="background-image: url('" + env.plugins.MarkdownPage.resolveLink(page, page.metadata.banner, env.config.baseUrl) + "');")
-    div.content-wrap
-      include author
-      h1= page.title
-      p.author
-        | #{ "Written by " }
-        mixin author(page.metadata.author)
+  if page.metadata.banner
+    header.postHeader(style="background-image: url('" + env.plugins.MarkdownPage.resolveLink(page, page.metadata.banner, env.config.baseUrl) + "');")
+      div.content-wrap
+        include author
+        h1= page.title
+        p.author
+          | #{ "Written by " }
+          mixin author(page.metadata.author)
+
+  else
+    header.postHeader
+      div.content-wrap
+        include author
+        h1= page.title
+        p.author
+          | #{ "Written by " }
+          mixin author(page.metadata.author)
+
+
 
 block content
   article.article

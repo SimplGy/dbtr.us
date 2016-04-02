@@ -5,8 +5,12 @@ block content
   include author
   ul.unstyledList.articleList
     each article in articles
-      li(style="background-image: url('" + env.plugins.MarkdownPage.resolveLink(article, article.metadata.banner, env.config.baseUrl) + "');")
-        a(href=article.url)= article.metadata.shortName
+      if article.metadata.banner
+        li(style="background-image: url('" + env.plugins.MarkdownPage.resolveLink(article, article.metadata.banner, env.config.baseUrl) + "');")
+          a(href=article.url)= article.metadata.shortName
+      else
+        li
+          a(href=article.url)= article.metadata.shortName
 
 block prepend footer
   div.nav
