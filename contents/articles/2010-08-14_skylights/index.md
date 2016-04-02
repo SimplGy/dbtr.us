@@ -4,7 +4,7 @@ shortName: Skylights
 author: Eric
 date: 2010-06-19
 template: article.jade
-thumb: 11-seal-screw-holes.jpg
+banner: 11-seal-screw-holes.jpg
 ---
 
 I finally cut into the roof today...

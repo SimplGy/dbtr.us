@@ -4,7 +4,7 @@ shortName: Folding Bed
 author: Eric
 date: 2013-01-30
 template: article.jade
-thumb: 3-framing-fold-up.jpg
+banner: 3-framing-fold-up.jpg
 ---
 
 I wanted to build a bed that can fold into a couch.

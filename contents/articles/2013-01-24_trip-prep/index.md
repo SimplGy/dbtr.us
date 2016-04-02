@@ -4,7 +4,7 @@ shortName: Trip Prep
 author: Eric
 date: 2013-01-24
 template: article.jade
-thumb: 1-planning.jpg
+banner: 1-planning.jpg
 ---
 
 I did a flurry of work on the van in preparation for a 3 week cross-country road trip. It started with a lot of drawing, as many things do if you're trying to avoid real work, or if you hire a design school graduate. Graph paper was the best medium for this kind of drawing and I'd suggest it for you and your children's children.

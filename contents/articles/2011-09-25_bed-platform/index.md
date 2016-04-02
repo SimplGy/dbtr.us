@@ -4,7 +4,7 @@ shortName: Simple Bed
 author: Eric
 date: 2010-09-25
 template: article.jade
-thumb: 7-finished-bed-frame-in-van.jpg
+banner: 7-finished-bed-frame-in-van.jpg
 ---
 
 In preparation for a move from PA to FL, I need both a sleeping area and some storage for the things I'm moving in the van.

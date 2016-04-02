@@ -1,0 +1,67 @@
+code.lang-markdown {
+  color: #424242; }
+  code.lang-markdown .header, code.lang-markdown .strong {
+    font-weight: bold; }
+  code.lang-markdown .emphasis {
+    font-style: italic; }
+  code.lang-markdown .horizontal_rule, code.lang-markdown .link_label, code.lang-markdown .code, code.lang-markdown .header, code.lang-markdown .link_url {
+    color: #555; }
+  code.lang-markdown .blockquote, code.lang-markdown .bullet {
+    color: #bbb; }
+
+.tomorrow-comment {
+  color: #8e908c; }
+
+pre .comment, pre .title {
+  color: #8e908c; }
+
+.tomorrow-red {
+  color: #c82829; }
+
+pre .variable, pre .attribute, pre .tag, pre .regexp, pre .ruby .constant {
+  color: #c82829; }
+pre .xml .tag .title, pre .xml .pi, pre .xml .doctype {
+  color: #c82829; }
+pre .html .doctype {
+  color: #c82829; }
+pre .css .id, pre .css .class, pre .css .pseudo {
+  color: #c82829; }
+
+.tomorrow-orange {
+  color: #f5871f; }
+
+pre .number, pre .preprocessor, pre .built_in, pre .literal, pre .params, pre .constant {
+  color: #f5871f; }
+
+.tomorrow-yellow {
+  color: #eab700; }
+
+pre .class, pre .ruby .class .title, pre .css .rules .attribute {
+  color: #eab700; }
+
+.tomorrow-green {
+  color: #718c00; }
+
+pre .string, pre .value, pre .inheritance, pre .header, pre .ruby .symbol, pre .xml .cdata {
+  color: #718c00; }
+
+.tomorrow-aqua, pre .css .hexcolor {
+  color: #3e999f; }
+
+.tomorrow-blue {
+  color: #4271ae; }
+
+pre .function {
+  color: #4271ae; }
+pre .python .decorator, pre .python .title {
+  color: #4271ae; }
+pre .ruby .function .title, pre .ruby .title .keyword {
+  color: #4271ae; }
+pre .perl .sub, pre .javascript .title, pre .coffeescript .title {
+  color: #4271ae; }
+
+.tomorrow-purple {
+  color: #8959a8; }
+
+pre .keyword, pre .javascript .function {
+  color: #8959a8; }

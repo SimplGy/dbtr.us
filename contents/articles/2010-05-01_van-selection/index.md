@@ -4,7 +4,7 @@ shortName: The Van
 author: Eric
 date: 2010-05-01 
 template: article.jade
-thumb: ford-e350-high-top.jpg
+banner: ford-e350-high-top.jpg
 ---
 
 The first step in the process is buying a van, and after a year of looking, planning, and hem-hawing, I did it. I found a 2006 Ford e350 on ebay for $5000 so I scooped it up.

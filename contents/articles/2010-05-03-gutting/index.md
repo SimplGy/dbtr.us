@@ -4,7 +4,7 @@ shortName: Gutting
 author: Eric
 date: 2010-05-03
 template: article.jade
-thumb: rear-view.jpg
+banner: rear-view.jpg
 ---
 
 The van was previously used as a painter's work truck, so there was a fair bit to clean out.

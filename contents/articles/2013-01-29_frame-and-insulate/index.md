@@ -4,7 +4,7 @@ shortName: Framing
 author: Eric
 date: 2013-01-29
 template: article.jade
-thumb: 4-reflectix-on-van-ceiling.jpg
+banner: 4-reflectix-on-van-ceiling.jpg
 ---
 
 Insulation keeps your van cool in the summer and warm in the winter. Insulating a van interior means carefully considering balancing aspects like interior space, moisture retention, toxic chemicals, and insulative properties.

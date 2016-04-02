@@ -4,7 +4,7 @@ shortName: Window Privacy
 author: Eric
 date: 2016-03-17
 template: article.jade
-thumb: both-sides.jpg
+banner: both-sides.jpg
 ---
 
 Curtains are ok, but they're a pain to set up and aren't very insulating. Here's how I built some window blocking insulating panels.

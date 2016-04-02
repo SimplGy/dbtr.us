@@ -4,7 +4,7 @@ shortName: Flooring 2
 author: Eric
 date: 2013-04-01
 template: article.jade
-thumb: click-flooring-in-van.jpg
+banner: click-flooring-in-van.jpg
 ---
 
 Installing flooring in a van is the first step (wish I'd known when I started :) to conversion to an RV. I chose laminate click flooring because it's easy to clean, durable, and I love a bright wood look.

@@ -4,7 +4,7 @@ shortName: Sound Deadening
 author: Eric
 date: 2013-01-28
 template: article.jade
-thumb: 7-interior-sound-deadening.jpg
+banner: 7-interior-sound-deadening.jpg
 ---
 
 Prepared a cargo van for heat/sound proofing and rust prevention.

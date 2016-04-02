@@ -4,7 +4,7 @@ shortName: Flooring
 author: Eric
 date: 2013-01-31
 template: article.jade
-thumb: 10-cork-underlayment-detail.jpg
+banner: 10-cork-underlayment-detail.jpg
 ---
 
 Converting a van to an RV requires a good moisture barrier to prevent rust and a good underlayment to insulate, reduce noise, and prevent vibration.
