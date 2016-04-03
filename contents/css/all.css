@@ -35,6 +35,12 @@ h1 {
   font-size: 2em;
   margin-bottom: 1em; }
 
+.subhead {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+  font-style: italic;
+  text-align: center; }
+
 h2 {
   font-size: 1.2em;
   font-weight: 400;
@@ -173,14 +179,13 @@ footer {
 
 .archive {
   width: 32em;
-  margin: 5em auto 6em;
+  margin: 0 auto;
   padding-left: 2em; }
-  .archive h2 {
-    font-size: 2em;
+  .archive .subhead {
     margin: 0;
     margin-left: 6.1em;
     margin-bottom: 0.5em;
-    font-style: italic; }
+    text-align: left; }
   .archive a, .archive span {
     display: block;
     float: left;
@@ -259,7 +264,7 @@ footer {
     footer .about p {
       margin-bottom: 1em; } }
 .siteHeader {
-  padding: 3em 0 5em;
+  padding: 2em 0 3em;
   background-size: cover;
   background-position: center center; }
   .siteHeader h1 {
@@ -285,14 +290,17 @@ footer {
     font-size: 1.2em;
     font-style: italic;
     text-align: center;
+    margin: 0;
     margin-top: -0.3em; }
+
+.siteHeader.small {
+  font-size: 70%; }
 
 @media (max-width: 690px) {
   .siteHeader {
-    padding: 1em 0; }
+    padding: 1em 0 1.5em; }
     .siteHeader h1 {
-      font-size: 1.4em;
-      margin-bottom: 0.6em; }
+      font-size: 1.4em; }
     .siteHeader .description {
       font-size: 1em; } }
 .postHeader {

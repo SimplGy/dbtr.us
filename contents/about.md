@@ -1,5 +1,9 @@
 ---
-view: none
+title: About
+template: simplePage.jade
 ---
 
-Building a van to need less, explore more, and live flexibly.
+This is a blog about a project to convert a cargo van into a camper. I'd like something I can travel comfortably in and work from.
+
+Blog powered by [Wintersmith](https://github.com/jnordberg/wintersmith)
+ 

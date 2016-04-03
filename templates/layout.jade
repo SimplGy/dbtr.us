@@ -30,16 +30,24 @@ html(lang='en')
     div#content
       div.content-wrap
         block content
-          h2 Welcome to zombocom!
+          small block content not specified
 
     footer
       div.content-wrap
         block footer
-          section.about
-            !=contents['about.md'].html
+          //section.about
+          //  !=contents['about.md'].html
           section.copy
-            p &copy; #{ new Date().getFullYear() }&nbsp;
+
+            p Need less, explore more, live flexibly.
+
+            p
+              a(href=contents.index.url) Home
+              | &nbsp;&mdash;&nbsp;
+              a(href=contents['about.md'].url) About
+              | &nbsp;&mdash;&nbsp;
+              a(href=contents['archive.json'].url) Archive
+              | &nbsp;&mdash;&nbsp;
+
+              | &copy; #{ new Date().getFullYear() }&nbsp;
               a(href='http://simple.gy') #{ locals.owner }, Simple Guy
-              | &nbsp;&mdash; powered by&nbsp;
-              a(href='https://github.com/jnordberg/wintersmith') Wintersmith
-              //- please leave the "powered by" if you use the design

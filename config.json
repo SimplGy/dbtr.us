@@ -3,7 +3,7 @@
     "url": "http://www.downbytheriver.us",
     "name": "Down by the River",
     "owner": "Eric",
-    "description": "Van -> RV Conversion. Live and work down by the river."
+    "description": "Convert a van into a camper. Live and work anywhere."
   },
   "plugins": [
     "./plugins/paginator.coffee"
@@ -21,6 +21,6 @@
     "smartypants": true
   },
   "paginator": {
-    "perPage": 20
+    "perPage": 50
   }
 }

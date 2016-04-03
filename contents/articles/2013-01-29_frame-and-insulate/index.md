@@ -1,6 +1,7 @@
 ---
 title: Frame and Insulate Your Van Walls
 shortName: Framing
+filename: "/framing/index.html"
 author: Eric
 date: 2013-01-29
 template: article.jade

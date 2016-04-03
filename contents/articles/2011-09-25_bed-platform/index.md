@@ -1,6 +1,7 @@
 ---
 title: How to Build a Wooden Bedframe in a Van
 shortName: Simple Bed
+filename: "/simple-bed/index.html"
 author: Eric
 date: 2010-09-25
 template: article.jade

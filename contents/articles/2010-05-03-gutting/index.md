@@ -1,6 +1,7 @@
 ---
 title: Gut a Work Van
 shortName: Gutting
+filename: "/gutting/index.html"
 author: Eric
 date: 2010-05-03
 template: article.jade

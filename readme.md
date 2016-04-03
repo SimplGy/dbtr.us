@@ -46,7 +46,8 @@ Then you can build and deploy in one line with:
 
 - [x] Home page: Grid of 1 or 2 word van features linking to articles
 - [x] Large version of the same image as the banner of each article
-- [ ] Create a footer with an about page and a link to all articles (feed). Cite Wintersmith there instead of footer
+- [ ] one-word permalinks
+- [x] Create a footer with an about page and a link to all articles (feed)
 - [ ] Make a van `favicon.ico`
 
 ## TODO (content)

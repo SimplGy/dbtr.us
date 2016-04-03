@@ -1,6 +1,7 @@
 ---
 title: How to Select a Van for RV Conversion
 shortName: The Van
+filename: "/van/index.html"
 author: Eric
 date: 2010-05-01 
 template: article.jade

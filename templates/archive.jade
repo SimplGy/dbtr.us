@@ -1,5 +1,5 @@
 
-extends layout
+extends simplePage
 
 //- this logic should be moved to a view at some point
 
@@ -10,7 +10,7 @@ block content
   - }).value()
   - var map = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
   section.archive
-    h2 Archive
+    h2.subhead Archive
     ul
       - var years = _.chain(archive).keys().reverse().value()
       each year, i in years
